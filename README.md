@@ -1,4 +1,4 @@
-Ver.0.1
+Ver.0.1 (Renamed to Fortune Finder)
 -----------------
 PYTHON 900 LINES
 includes comments,
